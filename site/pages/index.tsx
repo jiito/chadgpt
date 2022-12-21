@@ -10,8 +10,8 @@ export default function Home() {
       <Head>
         <title>ChadGPT</title>
       </Head>
-      <main className="flex font-bold text-5xl ">
-        Come crack a cold one with ChadGPT 🍻
+      <main className="flex font-bold text-5xl items-center justify-center ">
+        (888) 493 - CHAD 🍻
       </main>
     </>
   );

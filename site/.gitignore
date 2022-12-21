@@ -34,3 +34,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.log/ti-68170.log .log/tsserver.log
