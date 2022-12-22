@@ -15,7 +15,13 @@ export default function Home() {
           TEXT <span className="blue">&quot;WHAT&apos;S UP?&quot;</span> TO{" "}
         </h1>
         <h1> +1 (888) 493-CHAD</h1>
-        <img className="m-12 rounded-2xl" src="/Chad_contact.png" alt="" />
+        <Image
+          width={500}
+          height={500}
+          className="m-12 rounded-2xl"
+          src="/Chad_contact.png"
+          alt=""
+        />
       </main>
       <footer className="flex items-center justify-center mb-20">
         Made with 🍻 by &nbsp;
