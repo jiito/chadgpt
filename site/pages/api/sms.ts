@@ -25,8 +25,7 @@ const requestChadResponse = async (userMessage: string) => {
     }),
     headers: {
       "Content-Type": "application/json",
-      Authorization:
-        "Bearer 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",
+      Authorization: "Bearer ${process.env.OPEN_AI_TOKEN}",
     },
   });
   const json = await res.json();
