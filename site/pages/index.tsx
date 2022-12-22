@@ -9,6 +9,22 @@ export default function Home() {
     <>
       <Head>
         <title>ChadGPT</title>
+        <meta property="og:title" content="ChadGPT: Your AI Frat Bro" />
+        <meta
+          property="og:description"
+          content="Crack a cold one with your newest bud."
+        />
+        <meta property="og:image" content="/Chad_contact.PNG" />
+        <meta property="og:locale" content="en_US" />
+        <meta name="twitter:card" content="/Chad_contact.PNG" />
+        <meta name="twitter:title" content="ChadGPT: Your AI Frat Bro" />
+        <meta
+          name="twitter:description"
+          content="Crack a cold one with your newest bud."
+        />
+        <meta name="twitter:site" content="@beeejar" />
+        <meta name="twitter:image" content="/Chad_contact.PNG" />
+        <meta name="twitter:creator" content="@beeejar" />
       </Head>
       <main className="flex m-auto flex-col font-bold text-5xl items-center ">
         <h1 className="mt-20 mb-10">
