@@ -17,9 +17,9 @@ export default function Home() {
         <h1> +1 (888) 493-CHAD</h1>
         <img className="m-12 rounded-2xl" src="/Chad_contact.png" alt="" />
       </main>
-      <footer className="flex items-center justify-center ">
+      <footer className="flex items-center justify-center mb-20">
         Made with 🍻 by &nbsp;
-        <a className="underline" href="https://twitter.com/beeejar">
+        <a className="underline " href="https://twitter.com/beeejar">
           jiito
         </a>
       </footer>
