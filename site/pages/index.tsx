@@ -16,7 +16,7 @@ export default function Home() {
         />
         <meta property="og:image" content="/Chad_contact.PNG" />
         <meta property="og:locale" content="en_US" />
-        <meta name="twitter:card" content="/Chad_contact.PNG" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="ChadGPT: Your AI Frat Bro" />
         <meta
           name="twitter:description"
