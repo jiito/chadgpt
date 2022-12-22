@@ -19,7 +19,7 @@ export default function Home() {
           width={500}
           height={500}
           className="m-12 rounded-2xl"
-          src="/Chad_contact.png"
+          src="/Chad_contact.PNG"
           alt=""
         />
       </main>
