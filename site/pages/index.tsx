@@ -26,14 +26,14 @@ export default function Home() {
         <meta name="twitter:image" content="/Chad_contact.PNG" />
         <meta name="twitter:creator" content="@beeejar" />
       </Head>
-      <main className="flex m-auto flex-col font-bold text-5xl items-center ">
+      <main className="flex m-auto flex-col font-bold text-4xl items-center ">
         <h1 className="mt-20 mb-10">
           TEXT <span className="blue">&quot;WHAT&apos;S UP?&quot;</span> TO{" "}
         </h1>
         <h1> +1 (888) 493-CHAD</h1>
         <Image
-          width={500}
-          height={500}
+          width={400}
+          height={400}
           className="m-12 rounded-2xl"
           src="/Chad_contact.PNG"
           alt=""
