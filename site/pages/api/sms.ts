@@ -4,8 +4,6 @@ import * as twilio from "twilio";
 export default async (req: NextApiRequest, res: NextApiResponse) => {
   const twiml = new twilio.twiml.MessagingResponse();
   let usrMsg = req.body.Body;
-
-  console.log(usrMsg);
   //TODO: Request OpenAI here
   let msg = await requestChadResponse(usrMsg);
   twiml.message(msg);
