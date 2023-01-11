@@ -17,13 +17,16 @@ export default function Home() {
         <meta property="og:image" content="/Chad_contact.PNG" />
         <meta property="og:locale" content="en_US" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="ChadGPT: Your AI Frat Bro" />
+        <meta name="twitter:title" content="ChadGPT: Your AI Frat Bro 🍻" />
         <meta
           name="twitter:description"
           content="Crack a cold one with your newest bud."
         />
         <meta name="twitter:site" content="@beeejar" />
-        <meta name="twitter:image" content="/Chad_contact.PNG" />
+        <meta
+          name="twitter:image"
+          content="https://www.chadgpt.app/_next/image?url=/Chad_contact.PNG&w=384&q=75"
+        />
         <meta name="twitter:creator" content="@beeejar" />
       </Head>
       <main className="flex m-auto flex-col font-bold text-3xl items-center ">
